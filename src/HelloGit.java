@@ -5,5 +5,7 @@ public class HelloGit {
 
         System.out.println("Matrikelnummer: 01605148");
 
+        System.out.println("Test");
+
     }
 }
